@@ -13,7 +13,6 @@ This repository contains the code and resources for a data science project focus
 - **Extracting GameStop Revenue Data Using Webscraping:** Utilized web scraping techniques to extract revenue data for GameStop, allowing for comprehensive analysis alongside its stock data.
 - **Tesla Stock and Revenue Dashboard:** Developed an interactive dashboard using Plotly and Dash to visualize Tesla's stock performance and revenue data, enabling easy interpretation and analysis.
 - **GameStop Stock and Revenue Dashboard:** Created an interactive dashboard using Plotly and Dash to visualize GameStop's stock performance and revenue data, facilitating comparative analysis with Tesla.
-- 
 
 ## Requirements
 - Python 3.x
