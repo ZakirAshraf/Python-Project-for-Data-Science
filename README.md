@@ -23,7 +23,7 @@ This repository contains the code and resources for a data science project focus
 1. Clone the repository to your local machine:
 
 ```
-git clone <github.com/ZakirAshraf/Python-Project-for-Data-Science/edit/main/README.md>
+git clone <git clone https://github.com/ZakirAshraf/Python-Project-for-Data-Science.git>
 ```
 
 2. Install the required Python libraries:
